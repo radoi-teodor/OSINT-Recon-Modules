@@ -1,0 +1,22 @@
+[Info  - 6:00:52 AM] (52561) Pylance language server 2022.12.20 (pyright 621d886b) starting
+[Info  - 6:00:52 AM] (52561) Server root directory: /root/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 6:00:52 AM] (52561) Starting service instance "companies-domains"
+[Info  - 6:00:52 AM] (52561) Notebook support: LSP
+[Info  - 6:00:52 AM] (52561) Interactive window support: LSP
+[Info  - 6:00:52 AM] (52561) No configuration file found.
+[Info  - 6:00:52 AM] (52561) No pyproject.toml file found.
+[Info  - 6:00:52 AM] (52561) Setting pythonPath for service "companies-domains": "/bin/python3.11"
+[Warn  - 6:00:52 AM] (52561) stubPath /var/www/.recon-ng/modules/recon/companies-domains/typings is not a valid directory.
+[Info  - 6:00:52 AM] (52561) Assuming Python version 3.11
+[Info  - 6:00:52 AM] (52561) Assuming Python platform Linux
+[Info  - 6:00:52 AM] (52561) Searching for source files
+[Info  - 6:00:52 AM] (52561) Found 2 source files
+[Info  - 6:00:52 AM] (52561) Background analysis(1) root directory: /root/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist
+[Info  - 6:00:52 AM] (52561) Background analysis(1) started
+[Info  - 6:00:55 AM] (52561) Indexer background runner(2) root directory: /root/.vscode/extensions/ms-python.vscode-pylance-2022.12.20/dist (index)
+[Info  - 6:00:55 AM] (52561) Indexing(2) started
+[Info  - 6:00:55 AM] (52561) scanned(2) 553 files over 1 exec env
+[Info  - 6:01:01 AM] (52561) [IDX(2)] Long operation: index execution environment /var/www/.recon-ng/modules/recon/companies-domains (6280ms)
+[Info  - 6:01:01 AM] (52561) [IDX(2)] Long operation: index packages /var/www/.recon-ng/modules/recon/companies-domains (6281ms)
+[Info  - 6:01:01 AM] (52561) indexed(2) 322 files over 1 exec env
+[Info  - 6:01:01 AM] (52561) Indexing finished(2).

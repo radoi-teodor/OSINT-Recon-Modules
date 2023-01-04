@@ -1,0 +1,12 @@
+LSP Notebooks experiment is enabled
+LSP Notebooks interactive window support is enabled
+> conda info --json
+> python -c "import sys;print(sys.executable)"
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /bin/python ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /bin/python2 ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /bin/python3.11 ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python2 ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python3.11 ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.20.1/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python3.11
+Starting Pylance language server.
